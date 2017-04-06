@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: [开源之魂]
 description: [——轻舞飞扬工作室文集]
+
+github:
+  repository_name: qwfys
+  owner_name: 刘文科
