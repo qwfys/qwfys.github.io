@@ -1,4 +1,4 @@
 - [关于区块链的一些思考](blog/20180126211716.md)
 - [数据分析平台开放API接口设计](blog/20180126211645.md)
 - [深入实战Spring Boot](https://github.com/al-chenfromsz/)
-- [Java VM 详解](blog/20180126211716.md)
+- [Java VM 详解](blog/20210920002914.md)
